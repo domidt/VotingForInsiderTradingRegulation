@@ -53,7 +53,7 @@ load("Data.RData")
 
 **********************************************
 
-The folder '5_analyses' provides the codes for (1) data preparation and (2) the analyses shown in the paper. Detailed variable descriptions are provided in '2_analyses_vote.pdf'.
+The folder '5_analyses' provides the codes for (1) data preparation and (2) the analyses shown in the paper.
 
 The file '1_dataPreparation_vote.R' scripts the steps from loading files from the folder '4_data_excel' to the output of file 'Data.RData'.
 
