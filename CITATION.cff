@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Using the data, please cite it as below."
+authors:
+- family-names: "Schmidt"
+  given-names: "Dominik"
+  orcid: "https://orcid.org/0000-0001-6758-618X"
+- family-names: "Stöckl"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-2815-383X"
+- family-names: "Palan"
+  given-names: "Stefan"
+  orcid: "https://orcid.org/0000-0002-6650-1452"
+title: "Voting for insider trading regulation. An experimental study of informed and uninformed traders’ preferences"
+doi: "10.1016/j.jbankfin.2024.107295"
+journal: "Journal of Banking and Finance"
+start: 
+end: 
+year: 202
+date-released: 202
+url: "https://github.com/domidt/VotingForInsiderTradingRegulation"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Schmidt"
+    given-names: "Dominik"
+    orcid: "https://orcid.org/0000-0001-6758-618X"
+  - family-names: "Stöckl"
+    given-names: "Thomas"
+    orcid: "https://orcid.org/0000-0002-2815-383X"
+  - family-names: "Palan"
+    given-names: "Stefan"
+    orcid: "https://orcid.org/0000-0002-6650-1452"
+  title: "Voting for insider trading regulation. An experimental study of informed and uninformed traders’ preferences"
+  doi: "10.1016/j.jbankfin.2024.107295"
+  journal: "Journal of Banking and Finance"
+  start: 
+  end: 
+  year: 2024
+  url: "https://www.sciencedirect.com/science/article/pii/S138641812300037X"
